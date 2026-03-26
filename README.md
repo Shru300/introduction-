@@ -1,6 +1,8 @@
 # Introduction-
 
 Hi there! I'm Shruti Lavkesh Rathi 👋
+
+
 🚀 About Me
 I am a Computer Science and Engineering student at VIT Bhopal University, specializing in Gaming Technology (Class of 2027). Originally from Sangrampur, Maharashtra, I’ve spent the last few years exploring the intersection of logic and creativity.
 
