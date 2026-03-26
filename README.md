@@ -8,7 +8,11 @@ I am a Computer Science and Engineering student at VIT Bhopal University, specia
 
 💻 Tech Focus: I enjoy building immersive experiences and solving complex algorithmic problems.
 
-Category,Tools & Languages
-Languages,"Python, C++, Java, SQL"
-Game Dev,"Unity Engine, Computer Graphics"
-Software,"Cloud Computing, Algorithm Design"
+
+## 🛠️ Skills
+
+- **Languages:** `Python` • `C++` • `Java` • `SQL`
+- **Gaming Tech:** `Unity Engine` • `Computer Graphics`
+- **Core CS:** `Algorithms` • `Cloud Computing`
+📫 Let's Connect!
+LinkedIn: www.linkedin.com/in/shruti-rathi-57a12a282
