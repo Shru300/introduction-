@@ -14,5 +14,8 @@ I am a Computer Science and Engineering student at VIT Bhopal University, specia
 - **Languages:** `Python` • `C++` • `Java` • `SQL`
 - **Gaming Tech:** `Unity Engine` • `Computer Graphics`
 - **Core CS:** `Algorithms` • `Cloud Computing`
+
+
+  
 📫 Let's Connect!
 LinkedIn: www.linkedin.com/in/shruti-rathi-57a12a282
